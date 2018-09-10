@@ -246,6 +246,6 @@
 
     <properties>
         <version.slf4j>1.7.23</version.slf4j>
-        <version.orc>1.3.2</version.orc>
+        <version.orc>1.5.2</version.orc>
     </properties>
 </project>
